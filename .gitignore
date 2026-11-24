@@ -1,0 +1,18 @@
+
+# Experimental Python files
+/main_rename_exp.py
+/main_beforeupdate.py
+/experiment.py
+/move.py
+
+# Testing folders
+/test_folder/
+/test_folder - backup/
+/move_test/
+
+# Python automatically generated files
+/__pycache__/
+
+# Scratch folders
+/Scratch/
+/scratch_rename/
