@@ -56,8 +56,8 @@ python main.py
 ## Example Output
 
 ```text
-Moved a.jpg to sample_files\Images\a_1.jpg
-Moved c.pdf to sample_files\Documents\c_1.pdf
+moved a.jpg to sample_files\Images\a_1.jpg
+moved c.pdf to sample_files\Documents\c_1.pdf
 ```
 
 *Your actual output depends on the files in the source folder.*
